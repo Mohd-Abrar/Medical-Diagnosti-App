@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import pickle
 from sklearn.preprocessing import StandardScaler
 
-st.title('Medical diagnostic App')
+st.title('Medical diagnostic App ⚕️')
 st.markdown('Does the woman have diabetes or not ?')
 
 # Step1:Load the pickled model
